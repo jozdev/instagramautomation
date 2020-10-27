@@ -36,7 +36,7 @@ This project consists of using the selenium framework where the objective was to
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/jozdev/Anime-Crawler-API.git
+$ git clone https://github.com/jozdev/createinstagramaccount.git
 
 # Go into the repository
 $ cd automation

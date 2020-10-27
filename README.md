@@ -53,7 +53,7 @@ $ python main.py
 I appreciate any bug reported or improvement made!
 
 - Before reporting bugs:
-[check if they have already been reported](https://github.com/jozdev/Anime-Crawler-API/issues)
+[check if they have already been reported](https://github.com/jozdev/instagramautomation/issues)
                                                                                                                                       
 ## Contributors
 

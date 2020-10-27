@@ -37,7 +37,7 @@ def main():
         browser1.find_element_by_name('emailOrPhone').send_keys(email)
         browser1.find_element_by_name('fullName').send_keys(response1.json()['name'])
         browser1.find_element_by_name('username').send_keys(response3.json()['results'][0]['login']['username'], response2.json())
-        browser1.find_element_by_name('password').send_keys('lastilasti')
+        browser1.find_element_by_name('password').send_keys('password123')
         time.sleep(1)
         browser1.find_element_by_xpath('//*[@id="react-root"]/section/main/div/article/div/div[1]/div/form/div[7]/div/button').click()
         
